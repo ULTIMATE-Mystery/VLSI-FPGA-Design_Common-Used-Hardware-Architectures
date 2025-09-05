@@ -1,0 +1,75 @@
+[*]
+[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
+[*] Mon Dec 30 08:47:23 2024
+[*]
+[dumpfile] "/mnt/e/proj/verilog_study/05_02_sync_fifo/verilator/tb.vcd"
+[dumpfile_mtime] "Mon Dec 30 08:45:49 2024"
+[dumpfile_size] 208106
+[savefile] "/mnt/e/proj/verilog_study/05_02_sync_fifo/verilator/tb.gtkw"
+[timestart] 33680
+[size] 1550 846
+[pos] -1 -1
+*-13.608782 95000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[markername] AA
+[markername] BB
+[markername] CC
+[markername] DD
+[markername] EE
+[markername] FF
+[markername] GG
+[markername] HH
+[markername] II
+[markername] JJ
+[markername] KK
+[markername] LL
+[markername] MM
+[markername] NN
+[markername] OO
+[markername] PP
+[markername] QQ
+[markername] RR
+[markername] SS
+[markername] TT
+[markername] UU
+[markername] VV
+[markername] WW
+[markername] XX
+[markername] YY
+[markername] ZZ
+[treeopen] tb.
+[sst_width] 297
+[signals_width] 158
+[sst_expanded] 1
+[sst_vpaned_height] 235
+@28
+tb.clk
+tb.rstn
+@22
+tb.stage[31:0]
+@28
+tb.push
+@22
+tb.din[15:0]
+@28
+tb.pop
+tb.fifo_ful_buf
+tb.fifo_ful_ref
+tb.fifo_empty_buf
+tb.fifo_empty_ref
+@22
+tb.dout_buf[15:0]
+tb.dout_ref[15:0]
+@200
+-debug
+@22
+tb.u_model.dnum[3:0]
+tb.u_model.FIFO_DEPTH[31:0]
+tb.u_model.fifo_do[15:0]
+@23
+tb.u_model.wr_ptr[3:0]
+@22
+tb.u_model.rd_ptr[3:0]
+tb.u_model.mem[0][15:0]
+tb.u_model.mem[1][15:0]
+[pattern_trace] 1
+[pattern_trace] 0
